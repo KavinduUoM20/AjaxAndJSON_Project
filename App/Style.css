@@ -1,0 +1,8 @@
+.btn:focus {
+    box-shadow: none !important;
+    border-color: transparent !important;
+    outline: none ;
+}
+.hide-me{
+    display: none;
+}
